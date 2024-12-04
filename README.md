@@ -30,7 +30,7 @@ Key Features
   3. Open the Jupyter Notebook:jupyter notebook notebooks/EDA_Gold_Analysis.ipynb
   4. Kaggle Dataset: https://www.kaggle.com/datasets/zeesolver/usd-gold-detail?resource=download
   5. Save the datasets into a dataset folder
-  6. you should have the following directory in the gold analysis: notebooks(containing jupyter noteboook),dataset(containing all datasets),outputs(cleaned data),scripts(all python code)
+  6. you should have the following directory in the gold analysis: notebooks(containing jupyter noteboook),dataset(containing all datasets),outputs(cleaned and enhanced data),scripts(all python code)
   7. there are additional run_cleaning (run it to clean data) and run_features(to test your features)
 
  
